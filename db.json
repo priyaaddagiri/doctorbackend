@@ -1,0 +1,99 @@
+{
+  "doctors": [
+    {
+      "name": "srija",
+      "salary": "1,00,000",
+      "gender": "female",
+      "age": "34",
+      "specialization": "general medicine",
+      "id": 1
+    },
+    {
+      "name": "mounika",
+      "salary": "1,50,000",
+      "gender": "female",
+      "age": "45",
+      "specialization": "surgeon",
+      "id": 2
+    },
+    {
+      "name": "srija",
+      "salary": "1,00,000",
+      "gender": "female",
+      "age": "34",
+      "specialization": "general medicine",
+      "id": 3
+    },
+    {
+      "name": "valli",
+      "salary": "2,50,000",
+      "gender": "female",
+      "age": "21",
+      "specialization": "neurologist",
+      "id": 4
+    },
+    {
+      "name": "manu",
+      "salary": "3,00,000",
+      "gender": "male",
+      "age": "34",
+      "specialization": "dermotoligist",
+      "id": 5
+    },
+    {
+      "name": "pooja",
+      "salary": "1,20,000",
+      "gender": "female",
+      "age": "34",
+      "specialization": "family madicine",
+      "id": 6
+    }
+  ],
+  "patients": [
+    {
+      "name": "swathi",
+      "weight": "67",
+      "gender": "female",
+      "age": "23",
+      "disease": "heart disease",
+      "doctor": "srija",
+      "id": 1
+    },
+    {
+      "name": "siva",
+      "weight": "45",
+      "gender": "male",
+      "age": "34",
+      "disease": "vasculitis",
+      "doctor": "valli",
+      "id": 2
+    },
+    {
+      "name": "krishna",
+      "weight": "45",
+      "gender": "male",
+      "age": "56",
+      "disease": "acne",
+      "doctor": "manu",
+      "id": 3
+    },
+    {
+      "name": "thomas",
+      "weight": "67",
+      "gender": "male",
+      "age": "45",
+      "disease": "headache",
+      "doctor": "pooja",
+      "id": 4
+    },
+    {
+      "name": "shyam",
+      "weight": "67",
+      "gender": "male",
+      "age": "67",
+      "disease": "trauma",
+      "doctor": "mounika",
+      "id": 5
+    }
+  ]
+}
